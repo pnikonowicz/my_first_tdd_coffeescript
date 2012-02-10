@@ -1,0 +1,4 @@
+this is helpful if your test source files are not being found. 
+CS compiles objects into a safe namespace that isn't accessed in an obvious way. 
+
+http://stackoverflow.com/questions/4214731/coffeescript-global-variables
