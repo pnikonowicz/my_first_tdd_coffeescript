@@ -1,2 +1,2 @@
-public/
-javascripts/
+public/**/*.js
+spec/**/*.js
