@@ -2,7 +2,7 @@ type the following in your console to get started:
 1) guard    
 2) rake jasmine
 
-you run the tests by just pointing your browser to localhost:8888. guard will take care of the coffeescript compliation.
+you run the tests by just pointing your browser to localhost:8888. guard will take care of the coffeescript compliation. if this is your first time installing the app type a / and hit enter inside the guard window
 
 
 <h1>NOTES</h1>
