@@ -11,6 +11,5 @@ CS compiles objects into a safe namespace that isn't accessed in an obvious way.
 
 http://stackoverflow.com/questions/4214731/coffeescript-global-variables
 
-
-You cannot put your source files anywhere outside of the public namespace. 
+With Jasmin, You cannot put your source files anywhere outside of the public namespace. 
 i hear there is an update to fix this but it's not in the current version
