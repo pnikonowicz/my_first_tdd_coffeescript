@@ -1,4 +1,4 @@
 describe "One", ->
   it "has a value of '1' ", ->   
-    one = new One  
+    expect(new One().value).toEqual 1   
 

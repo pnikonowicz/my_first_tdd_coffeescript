@@ -1,2 +1,3 @@
-this.One =  ->	 
+this.One =  -> 
+	value: 1
 	  
